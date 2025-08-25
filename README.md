@@ -1,4 +1,4 @@
-# Full Stack Multimart E-Commerce
+# Full Stack ECommerce
 
 A full-stack e-commerce web application built using **React (Frontend), Laravel (Dashboard), Node.js REST API, and MySQL database**. This project demonstrates a modern, scalable e-commerce platform with secure user authentication, product management, shopping cart, and admin functionalities.
 
